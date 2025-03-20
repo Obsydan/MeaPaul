@@ -12,6 +12,7 @@ Je m'appelle Paul, passionné par la programmation et le développement logiciel
 - 📱 Applications Mobiles
 - 📐 Modélisation UML
 - 🗃️ Bases de données (MySQL)
+- Jeux vidéos
 
 🛠️ Outils & Technologies :
 - Git/GitHub
