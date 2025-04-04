@@ -1,6 +1,6 @@
 👋 Hello World! 
 
-Je m'appelle Paul, passionné par la programmation et le développement logiciel. Bien que débutant, j'apprends chaque jour et je suis enthousiaste à l'idée de grandir avec la communauté GitHub ! 
+Je m'appelle Paul alias Obsydan, passionné par la programmation et le développement logiciel. Bien que débutant, j'apprends chaque jour et je suis enthousiaste à l'idée de grandir avec la communauté GitHub ! 
 
 💻 Ce que j'aime coder :
 - ☕ Java (mon langage de prédilection)
